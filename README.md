@@ -28,7 +28,7 @@ Trained on text corpus (Wizard of Oz / similar dataset).
 - Google Colab
 
 ## Status
-Actively improving and expanding toward full GPT-style transformer.
+Completed and will soon train on other text corpus and understand techniques of data ingestion
 
 ## Author
 Aryan Jain
